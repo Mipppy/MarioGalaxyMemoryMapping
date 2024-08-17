@@ -11,3 +11,4 @@
 0x806AD766 - Wierd Lakitu zoom in effect when setting to a value like 3, then game crash
 0x806AD768 - Wierd Lakitu zoom out, no crash
 0x805B7F20 - Set to negative one to watch Mario peel off the screen
+0x805B7F90 - Tip-Toe Animation Controller, high values = slower animation
