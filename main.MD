@@ -136,4 +136,23 @@
 - `0x810780C4`
   - Some camera movement option. Tied to X Position somehow, either affects Camera Rotation or X Position
 
-0x810C01F0 - Gravity
+- `0x810C0420`
+  - Mario's X Velocity
+
+- `0x810C01F0`
+  - Mario's Y Velocity
+
+- 0x810C0428`
+  - Mario's Z Velocity
+
+- `0x810C01E0`
+  - Mario's X Width.  Also slightly glitches out Mario's shadow.  Does not affect Mario's hitbox
+
+- `0x810C01E4`
+  - Mario's Y Height.  Interestingly, Mario will continue looking at entities if for height change.  For example, position Mario near a Luma.  He will look up at it.  Change Mario's height, and his view will adjust to keep looking at said Luma. Does not affect Mario's hitbox
+
+- `0x810C01E8`
+  - Mario's Z Width. Does not affect Mario's hitbox
+
+- `0x0810C0530`
+  - Mario's Gravity
