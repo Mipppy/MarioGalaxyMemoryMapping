@@ -135,3 +135,5 @@
 
 - `0x810780C4`
   - Some camera movement option. Tied to X Position somehow, either affects Camera Rotation or X Position
+
+0x810C01F0 - Gravity
