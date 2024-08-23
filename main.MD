@@ -156,3 +156,7 @@
 
 - `0x0810C0530`
   - Mario's Gravity
+
+
+813921DB  - Star chip controllers
+8135CA9F - Star chip controllers
